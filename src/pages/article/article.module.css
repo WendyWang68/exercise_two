@@ -1,0 +1,26 @@
+
+  .articleWrapper {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  
+  .articleHeader {
+    background-color: lightblue;
+    background-size: cover;
+    padding: 40px 20px 20px;
+  }
+  
+  .articleHeader h1{
+    font-size: 48px;
+    font-weight: 400;
+  }
+  
+  .articleHeaderBlurb {
+    font-size: 24px;
+    font-weight: 100;
+  }
+  
+  .articleBody {
+    padding: 40px 20px;
+  }
+  
